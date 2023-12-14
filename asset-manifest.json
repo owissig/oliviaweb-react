@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/oliviaweb-react/static/css/main.f855e6bc.css",
+    "main.js": "/oliviaweb-react/static/js/main.fae99bb6.js",
+    "static/js/787.436b9578.chunk.js": "/oliviaweb-react/static/js/787.436b9578.chunk.js",
+    "index.html": "/oliviaweb-react/index.html",
+    "main.f855e6bc.css.map": "/oliviaweb-react/static/css/main.f855e6bc.css.map",
+    "main.fae99bb6.js.map": "/oliviaweb-react/static/js/main.fae99bb6.js.map",
+    "787.436b9578.chunk.js.map": "/oliviaweb-react/static/js/787.436b9578.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.fae99bb6.js"
+  ]
+}
